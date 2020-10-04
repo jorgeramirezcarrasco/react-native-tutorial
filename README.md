@@ -15,3 +15,15 @@ npm install
 ```
 npm start
 ```
+
+## Versioning
+
+1.0
+
+## Authors
+
+https://github.com/jramirezc93/
+
+## License
+
+Private
